@@ -1,0 +1,1 @@
+This repository demonstrates a common misunderstanding of the `IsEmpty` function in VBScript.  The `IsEmpty` function is designed to check if a variable has been explicitly assigned a value, rather than if its value is empty.  This example shows how to correctly handle empty strings and other potentially empty parameters.
